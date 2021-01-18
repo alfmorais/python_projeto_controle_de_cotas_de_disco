@@ -1,5 +1,6 @@
 def ConversaoBytes(listaBytes):
-  '''Função que recebe um valor em bytes e converte para mega bytes'''
+  '''Função que recebe uma lista de valores em bytes e converte para uma lista 
+  de valores em mega bytes'''
 
   #criando a lista vazia que será retornada como resultado da função
   listaMegaBytes = []
