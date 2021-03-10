@@ -3,93 +3,93 @@ Eduardo
 Henrique
 Murilo
 Theo
-André
-Enrico	
-Henry	
-Nathan	
+Andre
+Enrico
+Henry
+Nathan
 Thiago
-Antônio	
-Enzo	
-Ian	
-Otávio	
+Antonio
+Enzo
+Ian
+Otavio
 Thomas
-Augusto	
-Erick	
-Isaac	
-Pietro	
+Augusto
+Erick
+Isaac
+Pietro
 Vicente
-Breno	
-Felipe	
-João	
-Rafael	
-Vinícius
-Bruno	
-Fernando	
-Kaique	
-Raul	
+Breno
+Felipe
+Joao
+Rafael
+Vinicius
+Bruno
+Fernando
+Kaique
+Raul
 Vitor
-Caio	
-Francisco	
-Leonardo	
-Rian	
+Caio
+Francisco
+Leonardo
+Rian
 Yago
-Cauã	
-Frederico	
-Luan	
-Ricardo	
+Caua
+Frederico
+Luan
+Ricardo
 Ygor
-Daniel	
-Guilherme	
-Lucas	
-Rodrigo	
+Daniel
+Guilherme
+Lucas
+Rodrigo
 Yuri
 Danilo
-Gustavo	
-Mathias	
+Gustavo
+Mathias
 Samuel
-Arthur Gabriel		
-João Vitor
-Arthur Miguel		
+Arthur Gabriel	
+Joao Vitor
+Arthur Miguel	
 Luiz Felipe
 Carlos Eduardo		
 Luiz Gustavo
-Davi Luiz		
+Davi Luiz
 Luiz Henrique
-Davi Miguel		
+Davi Miguel
 Luiz Miguel
-Enzo Gabriel		
-Luiz Otávio
-Enzo Miguel		
+Enzo Gabriel
+Luiz Otavio
+Enzo Miguel
 Lucas Gabriel
-João Gabriel		
+Joao Gabriel
 Pedro Henrique
-João Guilherme		
+Joao Guilherme	
 Pedro Lucas
-João Lucas		
+Joao Lucas
 Pedro Miguel
-João Miguel		
+Joao Miguel
 Vitor Hugo
-João Pedro
-Agatha	
-Camila	
-Esther	
-Isis	
-Maitê	
-Natália
-Alícia	
-Carolina	
-Fernanda	
-Joana	
-Malu	
+Joao Pedro
+Agatha
+Camila
+Esther
+Isis
+Maite	
+Natalia
+Alicia
+Carolina
+Fernanda
+Joana
+Malu
 Nicole
-Amanda	
-Catarina	
-Gabriela	
-Laís	
-Maria	
-Olívia
-Ana	
-Cecília	
+Amanda
+Catarina
+Gabriela
+Lais
+Maria
+Olivia
+Ana
+Cecilia	
 Gabrielle	
 Lara	
 Mariah	
@@ -103,13 +103,13 @@ Rafaela
 Aurora	
 Clarice	
 Giulia	
-Lavínia	
+Lavinia	
 Marina	
 Rebeca
-Bárbara	
+Barbara	
 Eduarda	
-Heloísa	
-Letícia	
+Heloisa	
+Leticia	
 Maya	
 Sara
 Beatriz	
@@ -129,7 +129,7 @@ Emilly
 Isadora	
 Luana	
 Mirella	
-Vitória
+Vitoria
 Yasmin
 Ana Beatriz		
 Maria Eduarda
@@ -137,61 +137,61 @@ Ana Cecília
 Maria Fernanda
 Ana Clara		
 Maria Flor
-Ana Júlia		
+Ana Julia		
 Maria Helena
 Ana Laura		
 Maria Isis
-Ana Lívia		
-Maria Júlia
+Ana Livia		
+Maria Julia
 Ana Luiza		
 Maria Laura
 Ana Sofia		
 Maria Luiza
-Ana Vitória		
+Ana Vitoria		
 Maria Sophia
 Maria Alice		
 Maria Valentina
-Maria Cecília		
-Maria Vitória
+Maria Cecilia		
+Maria Vitoria
 Maria Clara
-Álvaro	
-Cícero	
+Alvaro	
+Cicero	
 Gael	
 Lino	
-Salomão
+Salomao
 Amado	
 Ciro	
 Gaspar	
-Lourenço	
+Lourenco	
 Santiago
 Antony	
 Conrado	
-Gonçalo	
+Goncalo	
 Martim	
 Serafim
 Bartolomeu	
-Cristovão	
-Gregório	
+Cristovao	
+Gregorio	
 Nicolas	
 Tadeu
 Benedito	
 Dante	
 Guilhermo	
 Noah	
-Tomé
-Benício	
+Tome
+Benicio	
 Dimitri	
 Hermano	
 Nuno	
 Valentino
 Benito	
 Dom	
-Ícaro	
+Icaro	
 Oliver	
 Vince
 Benjamin	
 Emanuel	
-Inácio	
+Inacio	
 Oscar	
 Zion
 Bento	
@@ -202,10 +202,10 @@ Calebe
 Franco	
 Lince	
 Ruan
-Açucena	
+Assucena	
 Augusta	
 Coralina	
-Hortênsia	
+Hortensia	
 Martina	
 Pilar
 Adele	
@@ -222,7 +222,7 @@ Melina
 Serena
 Alegra	
 Betina	
-Esperança	
+Esperanca	
 Lia	
 Mia	
 Tarsila
@@ -232,12 +232,12 @@ Estrela
 Linda	
 Micaela	
 Teodora
-Amélia	
+Amelia	
 Caetana	
 Felipa	
 Lolita	
 Naomi	
-Úrsula
+Ursula
 Amora	
 Carlota	
 Flora	
@@ -246,7 +246,7 @@ Olga
 Vida
 Anabel	
 Celina	
-Florença	
+Florenca	
 Luna	
 Pandora	
 Violeta
@@ -254,13 +254,13 @@ Analu
 Charlote	
 Frederica	
 Mabel	
-Penélope	
-Zoé
-Anastácia	
-Constança	
+Penelope	
+Zoe
+Anastacia	
+Constanca	
 Gaia	
 Maia	
-Pérola	
+Perola	
 Angelina	
 Cora	
 Guadalupe	
