@@ -13,8 +13,9 @@ caminho = 'C:/Users/Alfredo/AppData/Local/Programs/Python/Python39/python_projet
 nomes = []
 
 with open(caminho, 'r') as objeto_arquivo:
-    arquivo = objeto_arquivo.read()
+    arquivo = objeto_arquivo.readlines()
     for linha in arquivo:
+        linha = linha.strip()
         nomes.append(linha)
 
 print(nomes)
