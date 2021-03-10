@@ -1,0 +1,11 @@
+          Nome   Dado
+0     Fernando  87931
+1       Ursula  80360
+2        Joana  49008
+3  Davi Miguel  80568
+4       Anabel  57372
+5        Analu  10169
+6      Iolanda  95927
+7  Maria Clara  80901
+8        Andre  75610
+9       Sophie  13146
