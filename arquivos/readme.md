@@ -1,4 +1,4 @@
-# Python Projeto Controle de Cotas de Disco
+# Projeto Controle de Cotas de Disco
 
 ## Projeto proposto pelo site <a href="https://wiki.python.org.br/ListaDeExerciciosProjetos">Python Brasil</a>
 
