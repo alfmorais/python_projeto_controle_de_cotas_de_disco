@@ -2,8 +2,10 @@
 
 ## Projeto proposto pelo site <a href="https://wiki.python.org.br/ListaDeExerciciosProjetos">Python Brasil</a>
 
-## 1. Escopo do Projeto de acordo com o site Python Brasil
-## 2. Funcionamento do Programa em Python
-## 3. Lições aprendidas no desenvolvimento do projeto
+DOCUMENTAÇÃO DO PROJETO:
+
+1. Escopo do Projeto de acordo com o site Python Brasil
+2. Funcionamento do Programa em Python
+3. Lições aprendidas no desenvolvimento do projeto
 
 ## Alfredo de Morais

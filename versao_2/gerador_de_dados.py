@@ -26,17 +26,18 @@ dados = list(range(99999))
 
 
 def dados_teste(nomes, dados, quantidade):
-    '''
-    Função que retorna a quantidade de funcionários e dados referentes ao 
-    arquivo teste, Exemplo de uso da função:
+    """Função que retorna a quantidade de funcionários e dados referentes ao 
+    arquivo teste, Exemplo de uso da função
 
-    codigo:
+    Args:
+        nomes ([lista]): lista de nomes que está declarado no arquivo
+        dados ([lista]): lista de numeros declarados com a função range
+        quantidade ([inteiro]): quantidade de dados definido pelo usuario
 
-    arquivo = dados_teste(lista, lista, int)
-
-    o retorno da função será um arquivo txt com dados selecionados de maneira 
-    randomica. 
-    '''
+    Returns:
+        [file.txt]: o retorno da função será um arquivo txt com dados selecionados
+        de maneira randomica. 
+    """
 
     # Função random.choices para o nome e dados
     lista_nome = rand.sample(nomes, quantidade)

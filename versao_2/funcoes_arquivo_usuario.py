@@ -6,6 +6,8 @@ Objetivo: Elaborar todas as funções que são usado no arquivo
 
 '''
 
+# Funções para o arquivo do usuario
+
 
 def leitura_arquivo_usuario():
     pass
@@ -20,32 +22,4 @@ def limpando_dados():
 
 
 def eliminando_espaços():
-    pass
-
-
-def lista_bits():
-    pass
-
-
-def lista_usuarios():
-    pass
-
-
-def conversao_bytes():
-    pass
-
-
-def calculo_medio():
-    pass
-
-
-def calculo_porcentagem():
-    pass
-
-
-def dataframe():
-    pass
-
-
-def relatorio():
     pass
