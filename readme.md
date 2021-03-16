@@ -9,3 +9,4 @@ DOCUMENTAÇÃO DO PROJETO:
 3. Lições aprendidas no desenvolvimento do projeto
 
 ## Alfredo de Morais
+## Desenvolvedor de Aplicações Python
