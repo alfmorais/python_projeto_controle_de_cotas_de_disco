@@ -1,7 +1,7 @@
 # Lições Aprendidas
 Esse arquivo tem como objetivo mostrar as funções, módulos e outros conhecimentos adquiridos durante o planejamento e a execução do projeto proposto. 
 
-# Funções Bult-In
+# Funções utilizadas no desenvolvimento do projeto: 
 1. to.string(index=False) -> Essa função tem como objetivo fazer a conversão de dados em formato dataframe para string. Foi necessário fazer essa conversão para escrever os dados em um arquivo .txt e usa-lá como exemplo gerado pelo o programa, de acordo com os requisitos do software. Exemplo:
 
 ~~~python
