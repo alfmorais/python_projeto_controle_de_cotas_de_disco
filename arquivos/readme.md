@@ -19,3 +19,7 @@
 * Mostrar apenas os n primeiros em uso, definido pelo usuário
 * Gerar a saída numa página html
 * Criar o programa que lê as pastas e gera o arquivo inicial
+
+
+
+## Alfredo de Morais | Desenvolvedor de Aplicações Python
