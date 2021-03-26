@@ -16,6 +16,7 @@ tabela = tabela.to_string(index=False)
 
 # ---> Código para salvar o dataframe no arquivo.txt 
 ~~~
+<hr />
 
 2. rand.sample() -> A função rand.sample está contida no módulo random da biblioteca padrão do python. Essa função retorna um número de valores aleatórios contido em uma lista, tuplas e sets. A quantidade de valores aleatórios é o programador que define. Exemplo:
 
@@ -36,15 +37,39 @@ valores = rand.sample(lista, 4)
 print(valores)
 
 ~~~ 
+<hr />
 
-3. 
+3.  
+<hr />
+
 4.
+<hr />
+
 5.
+<hr />
+
 6. 
+<hr />
+
 7. 
+<hr />
+
 8. 
+<hr />
+
 9. 
+<hr />
+
 10. 
+<hr />
+
 11. 
+<hr />
+
 12. 
+<hr />
+
 13. 
+<hr />
+
+## Alfredo de Morais | Desenvolvedor de Aplicações Python
